@@ -1,3 +1,3 @@
-module github.com/JulioVecino/logger
+module github.com/go-lib-com/logger
 
 go 1.12
